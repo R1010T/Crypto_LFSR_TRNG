@@ -1,4 +1,4 @@
-# verilog-lfsr-trng
+# Crypto_LFSR_TRNG
 
 
 /src      → Verilog source files
